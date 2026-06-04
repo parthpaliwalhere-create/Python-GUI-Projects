@@ -5,7 +5,7 @@ This repository contains GUI-based Python projects built using Tkinter.
 ## Projects Included
 - 🕒 Digital Clock
 
-![digi clock](screenshots/screenshot.png)
+![digi clock](screenshots/Screenshot.png)
 
 ## Features
 - Graphical user interface
